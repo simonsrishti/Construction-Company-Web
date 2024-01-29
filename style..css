@@ -194,15 +194,15 @@ background-size: cover;
   width: 30%;
   height: 550px;
   position: relative;
-  left: 600px;
-  top: 60px;
+  left: 300px;
+  top: 30px;
   background-color: yellow;
   border-radius: 1.6em;
   opacity: 0.7;
   
   }
   .repair-h1{
-    font-size: 90px;
+    font-size: 60px;
     padding: 10px;
     font-family: 'Roboto Slab', serif;
     line-height: 1.6em;
