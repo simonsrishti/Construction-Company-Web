@@ -191,10 +191,10 @@ background-position: center;
 background-size: cover;
 }
 .repair-col{
-  width: 40%;
+  width: 30%;
   height: 550px;
   position: relative;
-  left: 800px;
+  left: 600px;
   top: 60px;
   background-color: yellow;
   border-radius: 1.6em;
