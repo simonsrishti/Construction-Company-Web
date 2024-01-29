@@ -73,7 +73,7 @@ z-index: -1;
 transition: 0.5s;
 }
 .header{
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(resource/background.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(background.jpg);
   height: 85vh;
   background-position: center;
   background-size: cover;
@@ -185,7 +185,7 @@ border-radius: 50%;
 }}
 
 .repair{
-background-image: url(resource/help.jpg);
+background-image: url(help.jpg);
 height: 85vh;
 background-position: center;
 background-size: cover;
